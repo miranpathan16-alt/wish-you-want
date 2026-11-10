@@ -1,0 +1,123 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://profound-sorbet-266644.netlify.app/
+Subject: =?utf-8?Q?Wish=20You=20Want=20=E2=80=94=20Billionaire=20Life=20Simulator?=
+Date: Tue, 10 Nov 2026 09:25:52 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--LSfxDGj3ssnT7ZoFq0haCH8i9X7MP1F0zFHes4sqHr----"
+
+
+------MultipartBoundary--LSfxDGj3ssnT7ZoFq0haCH8i9X7MP1F0zFHes4sqHr----
+Content-Type: text/html
+Content-ID: <frame-4C39701B04E129FA559FFD5CFB84EE8E@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://profound-sorbet-266644.netlify.app/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-42608151-6e39-42da-b40a-0a1444246448@mhtml.blink" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#090b16"><meta name="description" content="Wish You Want — a billionaire life and business simulator. Build businesses, invest, buy properties and live your dream life with virtual money.">
+<title>Wish You Want — Billionaire Life Simulator</title>
+</head>
+<body><div class="wrap">
+<header><div class="brand">💎 WISH <span>YOU WANT</span></div><nav><a href="https://profound-sorbet-266644.netlify.app/#features">Features</a><a href="https://profound-sorbet-266644.netlify.app/#how">How to play</a><a href="https://profound-sorbet-266644.netlify.app/#play">Play</a></nav></header>
+<main><section class="hero"><div><div class="eyebrow">YOUR DREAM. YOUR EMPIRE.</div><h1>Live like a <em>billionaire.</em></h1><p class="lead">Build your business empire, invest in the market, own dream properties and enjoy the luxury lifestyle — all inside one fun simulator.</p><div class="actions"><a class="btn primary" href="https://profound-sorbet-266644.netlify.app/game">▶ PLAY THE GAME</a><a class="btn secondary" href="https://profound-sorbet-266644.netlify.app/#features">Explore features</a></div><p class="disclaimer">A fun virtual-money simulation. No real money or investments.</p></div><div class="showcase"><div class="float f1">💰 Build your fortune</div><div class="emoji">🏙️</div><div class="float f2">🚘 ✈️ 🛥️ Luxury life</div></div></section>
+<section class="section" id="features"><h2>Your billionaire journey</h2><p class="sub">Make big moves. Grow your virtual wealth. Enjoy the rewards.</p><div class="grid"><article class="card"><div class="ico">🏢</div><h3>Build businesses</h3><p>Own businesses and grow your income over time.</p></article><article class="card"><div class="ico">📈</div><h3>Stock market</h3><p>Buy and sell shares in a fictional in-game market.</p></article><article class="card"><div class="ico">🏡</div><h3>Dream properties</h3><p>Purchase homes, mansions and luxury destinations.</p></article><article class="card"><div class="ico">🚗</div><h3>Luxury collection</h3><p>Add supercars, yachts, jets and more to your collection.</p></article><article class="card"><div class="ico">🍔</div><h3>Enjoy the lifestyle</h3><p>Explore food and lifestyle choices in the simulator.</p></article><article class="card"><div class="ico">🏦</div><h3>Manage your money</h3><p>Check your balance, save money and track your net worth.</p></article></div></section>
+<section class="section" id="how"><h2>How to play</h2><p class="sub">Your empire starts with your first move.</p><div class="how"><div class="step"><b>01</b><h3>Start with cash</h3><p class="sub">Begin with virtual money and explore the dashboard.</p></div><div class="step"><b>02</b><h3>Invest and grow</h3><p class="sub">Buy businesses, trade shares and build income.</p></div><div class="step"><b>03</b><h3>Enjoy your empire</h3><p class="sub">Spend on properties, cars and the billionaire lifestyle.</p></div></div></section>
+<section class="section" id="play"><div class="cta"><div class="eyebrow">READY TO BUILD YOUR EMPIRE?</div><h2>Make your billionaire dream happen.</h2><p>Jump into Wish You Want and start playing now.</p><a class="btn primary" href="https://profound-sorbet-266644.netlify.app/game">💎 PLAY WISH YOU WANT</a></div></section></main>
+<footer>© 2026 Wish You Want · Fan-made virtual life simulator<br><span class="disclaimer">This game is for entertainment only. All balances, businesses, prices and investments are fictional and have no real-world value.</span></footer>
+</div>
+</body></html>
+------MultipartBoundary--LSfxDGj3ssnT7ZoFq0haCH8i9X7MP1F0zFHes4sqHr----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-42608151-6e39-42da-b40a-0a1444246448@mhtml.blink
+
+@charset "utf-8";
+
+:root { color-scheme: dark; --bg: #090b16; --panel: #121629; --gold: #f6c85f; --muted: #b9bfd1; --line: #2a3048; }
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body { margin: 0px; background: radial-gradient(at 70% 0%, rgb(37, 32, 68) 0px, rgb(9, 11, 22) 48%); color: rgb(255, 255, 255); font: 16px / 1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+
+.wrap { width: min(1080px, 92%); margin: auto; }
+
+header { display: flex; justify-content: space-between; align-items: center; padding: 22px 0px; }
+
+.brand { font-weight: 900; letter-spacing: 1px; }
+
+.brand span { color: var(--gold); }
+
+nav a { color: var(--muted); text-decoration: none; margin-left: 22px; font-size: 14px; }
+
+.hero { padding: 65px 0px 75px; display: grid; grid-template-columns: 1.1fr 0.9fr; gap: 35px; align-items: center; }
+
+.eyebrow { color: var(--gold); font-weight: 800; letter-spacing: 3px; font-size: 12px; }
+
+.hero h1 { font-size: clamp(42px, 7vw, 76px); line-height: 1.02; margin: 14px 0px; }
+
+.hero h1 em { color: var(--gold); font-style: normal; }
+
+.lead { color: var(--muted); max-width: 550px; font-size: 18px; }
+
+.actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 28px; }
+
+.btn { display: inline-block; padding: 13px 22px; border-radius: 12px; text-decoration: none; font-weight: 800; }
+
+.primary { background: linear-gradient(135deg, rgb(255, 224, 139), rgb(217, 155, 43)); color: rgb(23, 18, 10); box-shadow: rgba(217, 155, 43, 0.2) 0px 8px 30px; }
+
+.secondary { border: 1px solid var(--line); color: white; }
+
+.showcase { min-height: 340px; border: 1px solid rgb(57, 52, 81); border-radius: 28px; background: linear-gradient(145deg, rgb(48, 40, 75), rgb(21, 25, 44) 65%, rgb(16, 19, 33)); display: grid; place-items: center; position: relative; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.533) 0px 24px 70px; }
+
+.showcase::before { content: ""; position: absolute; width: 270px; height: 270px; border-radius: 50%; background: rgba(246, 200, 95, 0.133); filter: blur(8px); }
+
+.emoji { position: relative; font-size: clamp(100px, 18vw, 190px); filter: drop-shadow(rgba(0, 0, 0, 0.533) 0px 18px 15px); }
+
+.float { position: absolute; background: rgba(17, 23, 41, 0.867); border: 1px solid rgb(69, 65, 90); padding: 9px 13px; border-radius: 12px; font-size: 13px; }
+
+.f1 { top: 24px; left: 20px; }
+
+.f2 { bottom: 25px; right: 18px; }
+
+.section { padding: 55px 0px; }
+
+.section h2 { font-size: 32px; margin: 0px 0px 8px; }
+
+.sub { color: var(--muted); margin: 0px 0px 25px; }
+
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+
+.card { background: linear-gradient(150deg, rgb(23, 29, 50), rgb(16, 21, 37)); border: 1px solid var(--line); border-radius: 18px; padding: 22px; }
+
+.ico { font-size: 34px; }
+
+.card h3 { margin: 8px 0px 4px; }
+
+.card p { color: var(--muted); margin: 0px; font-size: 14px; }
+
+.how { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+
+.step { border-left: 2px solid var(--gold); padding: 8px 16px; }
+
+.step b { color: var(--gold); }
+
+.cta { background: linear-gradient(120deg, rgb(39, 32, 62), rgb(23, 28, 48)); border: 1px solid rgb(71, 64, 93); border-radius: 24px; text-align: center; padding: 42px 20px; }
+
+.cta p { color: var(--muted); }
+
+footer { border-top: 1px solid var(--line); padding: 25px 0px; color: rgb(146, 153, 173); font-size: 13px; margin-top: 55px; }
+
+.disclaimer { font-size: 12px; color: rgb(133, 141, 164); margin-top: 18px; }
+
+@media (max-width: 760px) {
+  nav { display: none; }
+  .hero { grid-template-columns: 1fr; padding: 38px 0px 50px; }
+  .showcase { min-height: 260px; }
+  .grid, .how { grid-template-columns: 1fr; }
+  .section { padding: 38px 0px; }
+}
+------MultipartBoundary--LSfxDGj3ssnT7ZoFq0haCH8i9X7MP1F0zFHes4sqHr------
